@@ -67,7 +67,7 @@
   - solid -> gas
     - sublimation
   - liquid -> solid
-    - solidiification/crysilistalization 
+    - solidification/crystallization 
 - atomic trends
   - ​	![](/home/brenton/Documents/AP Chemistry overview/images/1200px-Periodic_trends.svg.png)
 - rate law shortcuts

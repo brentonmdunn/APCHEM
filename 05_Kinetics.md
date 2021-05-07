@@ -185,9 +185,9 @@ A catalyst increases the rate constant via:
 - Increased collision frequency
 - Improved orientation effects
 
-Homogenous catlysis reaction is the same phase as teh catalyst. For example, if this is an acid catlastezed reaction, all species are aqueous. The catlyst can then be used in the itnermediate and form covalent bonds.
+Homogeneous catalysis reaction is the same phase as the catalyst. For example, if this is an acid catalyzed reaction, all species are aqueous. The catalyst can then be used in the intermediate and form covalent bonds.
 
-Hoerotegeous catalyssi is when the reaction is a differetn phase than the catalyst. The catlayst can be absorbd in the begnning of hte reaction and desrpoted at the endo the reacton. An exxample is a catlaytic convertor. 
+Heterogeneous catalysis is when the reaction is a different phase than the catalyst. The catalyst can be absorbed in the beginning of the reaction and desorbed at the end of the reaction. An example is a catalytic converter. 
 
 Some catalysts involve covalent bonding between the catalyst and the reactant(s). An example is an acid-base catalysis, in which a reactant or intermediate neither gains or loses a proton. This introduces a new reaction intermediate and new elementary reactions involving that intermediate.
 

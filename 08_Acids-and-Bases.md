@@ -48,7 +48,7 @@ If $1.00\times 10^{-x}$:
 
 If $a.bc\times 10^{-x}$:
 
-- $pH=x-1.something$
+- $pH=|x-1|.something$
 
 ### Temperature Dependence of $K_w$
 
@@ -63,8 +63,6 @@ Molecules of a strong acid (e.g, $HCl$, $HBr$, $HI$, $HClO_4$, $H_2SO_4$, and $H
 When dissolved in solution, strong bases (e.g., group I and group II hydroxides) completely dissociate to produce hydroxide ions. As such, the concentration of $OH^-$ in a strong base solution is equal to the initial concentration of the strong base, and thus the $pOH$ (and $pH$ of the strong base solution is easily calculated.
 
 ## 8.3 Weak Acid and Base Equilibria 
-
-## NEED MORE HELP
 
 Weak acids react with water to produce hydronium ions. However, molecules of a weak acid will only partially ionize this way, in other words, only a small percentage of the molecules of a weak acid are ionized in a solution. Thus, the concentration of $H_3O^+$ is much less than the initial concentration of the molecular acid, and the vast majority of the acid molecules remain un-ionized.
 
@@ -105,7 +103,7 @@ $$
 ### Percent Ionization
 
 $$
-\%ionization =\frac{[H_3O^+]/[OH^-]_{equilibrium}}{[HA]/[B^-]_{iniital}}\times 100
+\%ionization =\frac{[H_3O^+]_{equilibrium}}{[HA]_{iniital}}\times 100\;\;\;\;OR\;\;\;\;\%ionization =\frac{[OH^-]_{equilibrium}}{[B^-]_{iniital}}\times 100
 $$
 
 Percent ionization increases as molarity decreases.
@@ -116,14 +114,14 @@ Percent ionization increases as molarity decreases.
 
 1. Dilution
    - Adding volume to volume requires $V_1M_1=V_2M_2$
-2. Stoichoimetry 
-   - Any strength acid + base wil proceed to make product untilt he limtiing reagent runs out
+2. Stoichiometry 
+   - Any strength acid + base will proceed to make product until the limting reagent runs out
    - Before > Shift > After table
 3. Equilibrium (if needed)
-   - If weak acids or bases are involved, then may need to do equlbirum calculation
-   - ICE tabe 
+   - If weak acids or bases are involved, then may need to do equilibrium calculation
+   - ICE table 
 4. Find $pH$
-   - Plug values from ICE table into $K_a$ or $K_b$ equations to fnd $[H^+]$ or $[OH^-]$ then use to find $pH$
+   - Plug values from ICE table into $K_a$ or $K_b$ equations to find $[H^+]$ or $[OH^-]$ then use to find $pH$
 
 ### Strong Acid and Strong Base
 
@@ -132,6 +130,8 @@ $$
 H^+_{(aq)}+OH^-_{(aq)}\rightarrow H_2O_{(l)}
 $$
 The $pH$ of the resulting solution may be determined from the concentration of the excess reagent.
+
+![](/home/brenton/Documents/AP Chemistry overview/images/SA SB.png)
 
 ### Weak Acid and Strong Base
 
@@ -150,7 +150,7 @@ When a weak base and a strong acid are mixed, they will react entity in a reacti
 $$
 B_{(aq)}+H_3O_{(aq)}^+\rightleftharpoons HB^+_{(aq)}+H_2O_{(l)}
 $$
-If the weak base is in excess, then a buffer solution is formed, and the $pH$ can be determined from the H-H equation. If the strong acid is in excess, then the $pH$ can be determined from the moles of excess hydronium ion and the total volume of solution. If they are equimolar, then the (slightly) acidic $pH$ can be determined front eh equilibrium represented by the equation:
+If the weak base is in excess, then a buffer solution is formed, and the $pH$ can be determined from the H-H equation. If the strong acid is in excess, then the $pH$ can be determined from the moles of excess hydronium ion and the total volume of solution. If they are equimolar, then the (slightly) acidic $pH$ can be determined from the equilibrium represented by the equation:
 $$
 HB^+_{(aq)}+H_2O_{(l)}\rightleftharpoons B_{(aq)}+H_3O^+_{(aq)}
 $$
@@ -162,9 +162,9 @@ $$
 HA_{(aq)}+B_{(aq)}\rightleftharpoons A^-_{(aq)}+HB^+_{(aq)}
 $$
 
-### Half Equilovlence Point
+### Half Equivalence Point
 
-A half equvolence point is when you neutraize half of thereaction (has to have a weak acid ro base). This occurs when $[acid]=\frac 1 2 [base]$ (or vice versa). You know that you are at the half equivolence point when, after the BSA table, the acid/base valeus will be the same. At this point, you can use the following equaitions to calculate $pH$/$pOH$:
+A half equivalence point is when you neutralize half of the reaction (has to have a weak acid or base). This occurs when $[acid]=\frac 1 2 [base]$ (or vice versa). You know that you are at the half equivalence point when, after the BSA table, the acid/base values will be the same. At this point, you can use the following equations to calculate $pH$/$pOH$:
 $$
 pH=pK_a
 $$
@@ -194,34 +194,38 @@ For polyprotic acids, titration curves can be used to determine the number of ac
 - The region around the equivalence is the buffer zone
   - Contains the weak acid ($HQ$) and its conjugate base ($Q^-$) and resists change in $pH$ upon addition of $OH^-$
 - The equivalence point is when the amount of titrant and analyte are equimolar
-  - The $pH$ at the equivalence point of a weak acid is slightly basic becase it is directed by the conjugate base, bit bacause we are using a strong base
-  - Strong acids have non-reacting conjugate bases so the autodissiciation of water directs the $pH$
+  - The $pH$ at the equivalence point of a weak acid is slightly basic because it is directed by the conjugate base, not because we are using a strong base
+  - Strong acids have non-reacting conjugate bases so the autodissociation of water directs the $pH$
 - As strength of acid decreases: (assume same starting molarity)
   - The starting $pH$ increases
   - The bigger the jump is to the buffer zone
   - Because acid strength decreases, conjugate base strength increases
 
-### Titration Curve of a Srong Acid adn Weak Base ($Y$)
+![](/home/brenton/Documents/AP Chemistry overview/images/WA SB.png)
 
-- When 0 acid has been added, teh $pH$ is a little less than 14 (it is as equlibrium)
-- Before half equivolence point: $[Y]>[HY^+]$
-- At half equivolence point: $[Y]=[HY^+]$
-- After half equivolence point: $[Y]<[HY^+]$
+### Titration Curve of a Strong Acid and Weak Base ($Y$)
+
+- When 0 acid has been added, the $pH$ is a little less than 14 (it is as equilibrium)
+- Before half equivalence point: $[Y]>[HY^+]$
+- At half equivalence point: $[Y]=[HY^+]$
+- After half equivalence point: $[Y]<[HY^+]$
 - The region around the equivalence is the buffer zone
-  - Contains wak base ($Y$) and its conjugate acid ($HY^+$)
-- The equivolence point is when the amount of titratn adn analyte are equimolar
-  - The $pH$ at the euqivoence point of a weak base is slightly aciciec because it is directe by the conjugate acid, not because we aer using a strong acid
+  - Contains weak base ($Y$) and its conjugate acid ($HY^+$)
+- The equivalence point is when the amount of titrant and analyte are equimolar
+  - The $pH$ at the equivalence point of a weak base is slightly acidic because it is directed by the conjugate acid, not because we are using a strong acid
 - As strength of base decreases: (assume same starting molarity)
   - The starting $pH$ decreases
   - The bigger drop to buffer zone
-  - Loer $pH$ at equivolence point
-  - Becauset eh base strength decreases, conjugate acid strength increases
+  - Lower $pH$ at equivalence point
+  - Because the base strength decreases, conjugate acid strength increases
+
+![](/home/brenton/Documents/AP Chemistry overview/images/SA WB.png)
 
 ## 8.6 Molecular Structure of Acids and Bases
 
 NEED MORE HELP
 
-Strong acids have weak H–X bonds (such as $HCl$), and weaker acids have stronger H–X bonds (such as $HF$). Oxoacids, or oxyacids, contain an atom bonded to one or mroe oxygen atoms, sometimes with hdygen atoms attached. The inductive efect occurs when electron in adect bonds are attracted by more electronegative atoms.
+Strong acids have weak H–X bonds (such as $HCl$), and weaker acids have stronger H–X bonds (such as $HF$). Oxoacids, or oxyacids, contain an atom bonded to one or more oxygen atoms, sometimes with hydrogen atoms attached. The inductive effect occurs when electrons in bonds are attracted by more electronegative atoms.
 
 The protons on a molecule that will participate in acid-base reactions, and the relative strength of these protons, can be inferred from the molecular structure.
 
@@ -241,7 +245,7 @@ Acid-base indicators are substances that exhibit different properties (such as c
 
 ## 8.8 Properties of Buffers
 
-A buffer solution contains a large concentration of both members in a conjugate acid-base pair. The conjugate acid reacts with added base and the conjugate base reacts with added acid. These reactions are responsible for the ability of a buffer to stargaze $pH$.
+A buffer solution contains a large concentration of both members in a conjugate acid-base pair. The conjugate acid reacts with added base and the conjugate base reacts with added acid. These reactions are responsible for the ability of a buffer to stabilize $pH$.
 
 ## 8.9 Henderson-Hasselbalch Equation
 

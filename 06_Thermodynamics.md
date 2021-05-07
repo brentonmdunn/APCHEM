@@ -124,6 +124,6 @@ $$
 $$
 
 ## 6.9 Hess’s Law
-Although the concept of a “state function Is not required for the course, two principles of Hess’s law should be understood. First, when a reaction is reversed, the enthalpy change stays constant in magnitude but becomes reversed in mathematical sign. Second, when two (or more) reactions are added to obtain an overall reaction, the individual enthalpy changes of each reaction are added to obtain the net enthalpy of the overall reaction.
+Although the concept of a “state function is not required for the course, two principles of Hess’s law should be understood. First, when a reaction is reversed, the enthalpy change stays constant in magnitude but becomes reversed in mathematical sign. Second, when two (or more) reactions are added to obtain an overall reaction, the individual enthalpy changes of each reaction are added to obtain the net enthalpy of the overall reaction.
 
 When the products of a reaction are at a different temperature than their surroundings, they exchange heat with the surroundings to reach thermal equilibrium. Thermal energy is transferred to the surroundings from the products of an exothermic reaction. Thermal energy is transferred from the surroundings to the products of an exothermic reaction. 
